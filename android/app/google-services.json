@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068782096092",
+    "project_id": "libreria-6a1ed",
+    "storage_bucket": "libreria-6a1ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068782096092:android:61c2b37f9dbf616c13ee19",
+        "android_client_info": {
+          "package_name": "com.example.libreria_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068782096092-vgur49g2gcsgik16e87726aprlb7v90h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.libreria_app",
+            "certificate_hash": "0a71bfcad1b165949bb7f302b238be093d51020f"
+          }
+        },
+        {
+          "client_id": "1068782096092-s1g5v6tbr0q04lmu2mfd3g13i1ua3qj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzmdwIxsNB6w6b8Wlu4FBGIWmXiDhPKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068782096092-s1g5v6tbr0q04lmu2mfd3g13i1ua3qj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
